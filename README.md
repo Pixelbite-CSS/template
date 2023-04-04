@@ -29,4 +29,4 @@ npm start
  - Please, before using or cloning this project, read our [License Terms](https://github.com/Pixelbite-CSS/template/blob/main/LICENSE).
  - **By cloning, you are agreeing to the license and its intent.**
 
-##### Copyright © 2022 Pixelbite CSS. All rights reserved.
+##### Copyright © 2023 Pixelbite CSS. All rights reserved.
